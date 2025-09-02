@@ -1,14 +1,17 @@
 # GUI演示-权限控制1
-https://github.com/user-attachments/assets/0f2f017a-9c3f-4958-bdef-329298e58a20
+https://github.com/user-attachments/assets/a7f8a5e5-3c6d-40de-98d8-2ea67d2257c6
 
 # GUI演示-权限控制2
-https://github.com/user-attachments/assets/b5615849-26ff-464c-87e7-2e8d1c0b4591
+https://github.com/user-attachments/assets/2bb4be50-ef00-474b-bf23-56cb7237f1ae
 
 # GUI演示-透明加解密
-https://github.com/user-attachments/assets/f003df3e-dc0b-4347-ba20-78bbc2ec2d42
+https://github.com/user-attachments/assets/03b5a816-3cc9-4aad-9cd7-e4ea6f1f74c0
 
-# 功能演示-1(非GUI演示)
+# GUI演示-附加功能
+https://github.com/user-attachments/assets/f361a192-86ad-4084-b520-7c5bcb21ee94
+
+# 功能演示-1(旧版)
 https://github.com/user-attachments/assets/44320720-9632-4285-9331-f53b2d377a79
 
-# 功能演示-2(非GUI演示)
+# 功能演示-2(旧版)
 https://github.com/user-attachments/assets/972fc545-67ee-4644-bf83-f15357bad710
