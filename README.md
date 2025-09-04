@@ -5,7 +5,7 @@
 https://github.com/user-attachments/assets/44320720-9632-4285-9331-f53b2d377a79
 
 # 功能演示-2
-https://github.com/user-attachments/assets/972fc545-67ee-4644-bf83-f15357bad710
+https://github.com/user-attachments/assets/325fa190-0b12-4b9a-a090-99736f05c676
 
 # GUI演示-权限控制1
 https://github.com/user-attachments/assets/a7f8a5e5-3c6d-40de-98d8-2ea67d2257c6
