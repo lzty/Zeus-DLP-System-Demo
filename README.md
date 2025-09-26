@@ -18,3 +18,6 @@ https://github.com/user-attachments/assets/03b5a816-3cc9-4aad-9cd7-e4ea6f1f74c0
 
 # GUI演示-附加功能
 https://github.com/user-attachments/assets/f361a192-86ad-4084-b520-7c5bcb21ee94
+
+# 演示程序下载
+[zfs_package.zip](https://github.com/user-attachments/files/22562839/zfs_package.zip)
